@@ -3,7 +3,7 @@
 
 // const currentDate = (mm/dd/yyyy);
 
-const inputLocation = "San Diego"
+const inputLocation = $("#citySearch")
 
 
 
