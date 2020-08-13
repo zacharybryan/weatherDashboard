@@ -1,3 +1,9 @@
+# Weather Dashboard #
+
+## Description ##
+
+A simple weather finder. Just enter the city of your choice and see what the weather is like!
+
 ## Resources ##
 
 * [Tim Sanders](https://github.com/tbsanders5)
