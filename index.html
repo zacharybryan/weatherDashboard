@@ -10,24 +10,29 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <div class="container my-4">
-        <header>
-            <h1 class="text-center text-danger">Weather Dashboard</h1>
+
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+
+
+    <div class="container  mx-4 my-4">
+        <header class="row">
+            <h1 class="col-12 text-center text-danger">Weather Dashboard</h1>
         </header>
-    </div>
-    <section>
-        <div>
-            
-        </div>
-    </section>
-    <section>
-        <div class="card-deck">
-            <div class="card" id="dayOne">
-                <h3>date</h3>
-                <p>temperature</p>
-                <p>humidity</p>
-                <p>wind speed</p>
+    
+        <section>
+            <div class="md-form active-cyan active-cyan-2 mb-3">
+                <input class="form-control" type="text" placeholder="Search" aria-label="Search">
             </div>
+    
+        </section>
+        <section>
+            <div class="card-deck">
+                <div class="card" id="dayOne">
+                    <h3>date</h3>
+                    <p>temperature</p>
+                    <p>humidity</p>
+                    <p>wind speed</p>
+                </div>
             <div class="card" id="dayTwo">
                 <h3>date</h3>
                 <p>temperature</p>
@@ -53,7 +58,7 @@
                 <p>wind speed</p>
             </div>
         </div>
-
+    </div>
     </section>
     <!-- Added jQuery  -->
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
@@ -61,6 +66,7 @@
     <script src="./script.js"></script>
     <!-- Added ajax -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
     <!-- Bootstrap js -->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
     integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
