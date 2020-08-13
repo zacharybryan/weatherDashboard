@@ -1,3 +1,22 @@
+## Resources ##
+
+* [Tim Sanders](https://github.com/tbsanders5)
+* [Nancy Lambert-Brown](https://github.com/n-lambert)
+* [Plover Brown](https://github.com/rebgrasshopper)
+* [Nicholas Konzen](https://github.com/NTKonzen)
+* [Talia Vazquez](https://github.com/taliavazquez)
+* [Kira Lowrey](https://github.com/KILowrey)
+* Bootstrap
+* jQuery
+* AJAX
+
+### How to Use ###
+
+1. When you are ready to look up the weather type a city into the search bar
+1. Press enter or click "search"
+1. See the 5 day weather forecasted below
+
+
 Copyright (c) 2020 Bryan, Zachary
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
